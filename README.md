@@ -3,9 +3,9 @@
 # I think this may be the best choice for you to build an exchange or secondary development
 
 >  Statement 1: I have been working in the new company. I will take the time to update some descriptive things here so that everyone can compile, build, and develop  
->  Statement 2: The APP source code and the trading robot source code are not open source (provided for a fee), if necessary, email: 837385225@qq.com  
-
-# I am a chinese，so chinese is my mother language, But I can also use both English and Japanese to communicate with you. 
+>  Statement 2: The APP source code and the trading robot source code are not open source (provided for a fee), if necessary, email: kryptomathix@gmail.com
+Telegram  https://t.me/kryptomathix 
+# Let our communication be in English pls. 
 
 ## Introduction
 
@@ -127,7 +127,7 @@ n short, this system supports a highly customized matching mode. At the same tim
 - Other：redis、kafka、Ali OSS、Tencent Captcha
 - Frontend：Vue、iView、less
 
-## Demo website
+## Demo website- not available
 
 [https://www.bizzan.com](https://www.bizzan.com)
 
@@ -251,7 +251,7 @@ There are some places that need special attention in the use of the function of 
 
 I can provide paid technical assistance and use training guidance!
 
-Email：877070886@qq.com
+Email：
 
 ## Precautions
 
